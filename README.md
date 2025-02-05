@@ -3,7 +3,7 @@ Receipt processor spring boot application
 
 Tools required : JAVA 1.8, Docker Hub.
 
-Step#1. git checkout Step#2. from command line run -- docker build -t receiptprocessor_image. Step#3. from command line run -- docker run -p 8080:8080 receiptprocessor_image
+Step#1. git checkout Step#2. from command line run -- "docker build -t receiptprocessor_image ." Step#3. from command line run -- "docker run -p 8080:8080 receiptprocessor_image"
 
 Application will be up and running at http://localhost:8080/
 
